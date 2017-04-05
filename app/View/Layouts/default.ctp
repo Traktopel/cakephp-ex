@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-	  <h1>Welcome to your CakePHP application on OpenShift <?php echo getenv("ENV"); ?></h1>
+	  <h1>Welcome to your CakePHP application on OpenShift <?php echo getenv("ENVIRONMENT"); ?></h1>
           </hgroup>
 
 
